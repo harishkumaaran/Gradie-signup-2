@@ -657,6 +657,11 @@ video {
   padding-left: 0.5rem;
 }
 
+.container{
+  height: 600px;
+  width: 400px;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
