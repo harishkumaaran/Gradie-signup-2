@@ -657,11 +657,6 @@ video {
   padding-left: 0.5rem;
 }
 
-.container{
-  height: 600px;
-  width: 900px;
-}
-
 .sr-only {
   position: absolute;
   width: 1px;
@@ -33393,6 +33388,11 @@ video {
 
 .content-none {
   content: none;
+}
+
+.container{
+  height: 600px;
+  width: 900px;
 }
 
 @media (min-width: 640px) {
